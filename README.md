@@ -29,11 +29,11 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/C7836-5M1L3/cc_sim_crack
+git clone https://github.com/C7836-5M1L3/SMILE-GEN
 
-cd cc_sim_crack
+cd SMILE-GEN
 
-python cc_sim_crack.py
+python smile-gen.py
 ```
 @Cyber smile
 
