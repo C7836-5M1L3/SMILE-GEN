@@ -14,7 +14,7 @@
 <p align="center">
 
 <a href="#"><img title="SMILE-GEN"
- src="https://img.shields.io/badge/-SMILE-GEN%20-black?&style=for-the-badge"></a>
+ src="https://img.shields.io/badge/-SMILE GEN%20-black?&style=for-the-badge"></a>
 
 ---
 
