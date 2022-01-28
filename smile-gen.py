@@ -20,7 +20,7 @@ print (red+b+"""
 
 print (gren+b+"              <===[[ coded by Cyber smile ]]===>"+b+gren)
 print (" ")
-print (yellow+b+"                     SMILE-GEN "+b+yellow)
+print (yellow+b+"               <---( Password Generator)--->"+b+yellow)
 print (" ")
 
 length=int(input(cyan+b+"Enter The Length Of The Password: "+b+cyan))
